@@ -20,6 +20,8 @@ Signal Sync is a wearable device that broadcasts and receives sub-1GHz radio sig
 
 No app. No login. No internet. Just pick up a device, flip a switch, and find your people.
 
+<img width="381" height="428" alt="image" src="https://github.com/user-attachments/assets/07d02697-fa59-43cc-b886-ac229a167425" />
+
 ---
 
 ## 🏗️ System Architecture
