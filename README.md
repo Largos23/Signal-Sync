@@ -179,12 +179,6 @@ python3 raspberry-pi/main.py
 - Designed with **IEC 62368-1** safety principles in mind
 - RSSI range calibrated for **−20 dBm to −110 dBm**; display adjusted for indoor falloff at ~−90 dBm
 
----
 
-## 📄 License
 
-This project was developed as a Capstone project at Conestoga College. All rights reserved by the authors.
 
----
-
-*Built with ❤️ by Carson Soers & Edward Estacion — Conestoga College, 2024–2025*
